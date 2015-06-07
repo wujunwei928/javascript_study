@@ -1,2 +1,2 @@
-# my_study
-my program study 
+# my_javascript_study
+my javascript study 
